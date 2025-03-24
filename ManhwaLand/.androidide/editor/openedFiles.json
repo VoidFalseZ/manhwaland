@@ -1,0 +1,50 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/ManhwaLand/app/src/main/java/com/justadev/manhwaland/MainActivity.java",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 893,
+          "line": 29
+        },
+        "start": {
+          "column": 1,
+          "index": 893,
+          "line": 29
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/ManhwaLand/app/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 11,
+          "index": 839,
+          "line": 23
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/ManhwaLand/app/src/main/res/layout/activity_main.xml",
+      "selection": {
+        "end": {
+          "column": 17,
+          "index": 353,
+          "line": 9
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/ManhwaLand/app/src/main/java/com/justadev/manhwaland/MainActivity.java"
+}
